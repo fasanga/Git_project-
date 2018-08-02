@@ -20,3 +20,4 @@ sshd:x:74:74:Privilege-separated SSH:/var/empty/sshd:/sbin/nologin
 ec2-user:x:1000:1000:Cloud User:/home/ec2-user:/bin/bash
 jenkins:x:997:994:Jenkins Automation Server:/var/lib/jenkins:/bin/false
 test:x:1001:1001::/home/test:/bin/bash
+rene
